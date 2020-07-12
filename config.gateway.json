@@ -54,7 +54,7 @@
                                                                 "mtu": "1492",
                                                                 "name-server": "none",
                                                                 "password": "kpn",
-                                                                "user-id": "xx-xx-xx-xx-xx-xx@internet"
+                                                                "user-id": "e0-63-da-c7-31-8d@internet"
                                                         }
                                                 }
                                         }
@@ -63,7 +63,7 @@
                         "eth1": {
                                 "description": "eth1 - LAN",
                                 "address": [
-                                        "192.168.100.1/24"
+                                        "192.168.1.1/24"
                                 ],
                                 "duplex": "auto",
                                 "firewall": {
